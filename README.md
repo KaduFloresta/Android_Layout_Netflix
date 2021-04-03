@@ -57,4 +57,4 @@
  ---
  
  # Print do Aplicativo 
- <img src="https://github.com/KaduFloresta/Android_Layout_Netflix/blob/master/app/src/main/res/drawable/print.png" alt="drawing" width="300"/> <img src="https://github.com/KaduFloresta/Android_Layout_Netflix/blob/master/app/src/main/res/drawable/print1.png" alt="drawing" width="600"/>
+ <img src="https://github.com/KaduFloresta/Android_Layout_Netflix/blob/master/app/src/main/res/drawable/print.png" alt="drawing" width="300"/> <img src="https://github.com/KaduFloresta/Android_Layout_Netflix/blob/master/app/src/main/res/drawable/print1.png" alt="drawing" width="550"/>
